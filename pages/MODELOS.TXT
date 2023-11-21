@@ -1,0 +1,40 @@
+<div>
+    <img src="../imagens/iphones/iphone_15_pro.png" alt="iPhone 15 Pro">
+    <h3>iPhone 15 Pro</h3>
+    <ul>
+        <li>Tela Super Retina XDR com ProMotion de 6,7 pol. ou 6,1 pol.</li>
+        <li>Sistema de câmera Pro. Teleobjetiva, grande-angular e ultra-angular</li>
+        <li>Chip A17 Pro</li>
+    </ul>
+    <a href="#" class="but">Comprar</a>
+</div>
+<div>
+    <img src="../imagens/iphones/iphone_15.png" alt="iPhone 15">
+    <h3>iPhone 14</h3>
+    <ul>
+        <li>Tela Super Retina XDR de 6,1 pol. ou 5,4 pol.</li>
+        <li>Sistema avançado de câmera dupla</li>
+        <li>Chip A16 Bionic</li>
+    </ul>
+    <a href="#" class="but">Comprar</a>
+</div>
+<div>
+    <img src="../imagens/iphones/iphone_14.png" alt="iPhone 14">
+    <h3>iPhone 14</h3>
+    <ul>
+        <li>Tela Super Retina XDR de 6,1 pol. ou 5,4 pol.</li>
+        <li>Sistema de câmera dupla</li>
+        <li>Chip A15 Bionic</li>
+    </ul>
+    <a href="#" class="but">Comprar</a>
+</div>
+<div>
+    <img src="../imagens/iphones/iphone_se.png" alt="iPhone SE">
+    <h3>iPhone SE (3ª geração)</h3>
+    <ul>
+        <li>Tela Retina HD</li>
+        <li>Sistema de câmera única</li>
+        <li>Chip A15 Bionic</li>
+    </ul>
+    <a href="#" class="but">Comprar</a>
+</div>
